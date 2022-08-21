@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Notes-maker/static/js/main.20412a5b.chunk.js",
+    "main.js.map": "/Notes-maker/static/js/main.20412a5b.chunk.js.map",
+    "runtime-main.js": "/Notes-maker/static/js/runtime-main.14b61b2b.js",
+    "runtime-main.js.map": "/Notes-maker/static/js/runtime-main.14b61b2b.js.map",
+    "static/js/2.88e6856e.chunk.js": "/Notes-maker/static/js/2.88e6856e.chunk.js",
+    "static/js/2.88e6856e.chunk.js.map": "/Notes-maker/static/js/2.88e6856e.chunk.js.map",
+    "index.html": "/Notes-maker/index.html",
+    "precache-manifest.3165f5f40d056459c13c96d10fbf2bee.js": "/Notes-maker/precache-manifest.3165f5f40d056459c13c96d10fbf2bee.js",
+    "service-worker.js": "/Notes-maker/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14b61b2b.js",
+    "static/js/2.88e6856e.chunk.js",
+    "static/js/main.20412a5b.chunk.js"
+  ]
+}
